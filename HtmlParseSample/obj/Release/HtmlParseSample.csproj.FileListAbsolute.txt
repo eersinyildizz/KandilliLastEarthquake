@@ -1,0 +1,13 @@
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\bin\Release\HtmlParseSample.exe.config
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\bin\Release\HtmlParseSample.exe
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\bin\Release\HtmlParseSample.pdb
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\bin\Release\HtmlAgilityPack.dll
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\bin\Release\HtmlAgilityPack.xml
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\obj\Release\HtmlParseSample.exe
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\obj\Release\HtmlParseSample.pdb
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\obj\Release\HtmlParseSample.csprojResolveAssemblyReference.cache
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\bin\Release\HtmlParseSample.exe.manifest
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\bin\Release\HtmlParseSample.application
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\obj\Release\HtmlParseSample.exe.manifest
+C:\Users\Ersin\Desktop\HtmlParseSample\HtmlParseSample\obj\Release\HtmlParseSample.application
